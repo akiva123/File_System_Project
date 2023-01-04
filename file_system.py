@@ -1,14 +1,3 @@
-"""
-File:    file_system.py
-Author:  Akiva Neuman
-Date:    12/08/2022
-Section: 21
-E-mail:  neuman1@umbc.edu
-Description:
-  Commands for file system.
-"""
-
-
 def run_file_system():
     dictionary = {'root': {'bin': {}}}
     current_direct = 'root'
