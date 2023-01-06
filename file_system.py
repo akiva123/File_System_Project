@@ -177,7 +177,7 @@ def run_file_system():
         print(direct_path[5:])  # start from 5 to start from slash
 
     def return_input():  # helper function
-        return input('[cmsc201 proj3]$ ')
+        return input('[file system]$ ')
 
     command = None
     while command != 'exit':
